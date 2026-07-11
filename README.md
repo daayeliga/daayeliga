@@ -46,4 +46,4 @@ An R-based stock-flow-fund ecological macroeconomic model (DEFINE-SIMPLE) testin
 ## Contact
 
 Open to conversations on climate finance, agricultural development, and multilateral/DFI research roles.
-ayeligadavid@gmail.com | www.linkedin.com/in/davidayeliga 
+*(Add your LinkedIn / email here before sharing.)*
